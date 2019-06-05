@@ -1,0 +1,44 @@
+<funds>
+    <fund isin="132523652">
+        <position id="000125323">
+            <percentage>0.2</percentage>
+        </position>
+        <position id="034030402">
+            <percentage>0.3</percentage>
+        </position>
+        <position id="477464644">
+            <percentage>0.1</percentage>
+        </position>
+        <position id="838282210">
+            <percentage>0.4</percentage>
+        </position>
+    </fund>
+    <fund isin="777432112">
+        <position id="000125323">
+            <percentage>0.2</percentage>
+        </position>
+        <position id="034030402">
+            <percentage>0.2</percentage>
+        </position>
+        <position id="477464644">
+            <percentage>0.1</percentage>
+        </position>
+        <position id="838282210">
+            <percentage>0.512</percentage>
+        </position>
+    </fund>
+    <fund isin="457432475">
+        <position id="000125323">
+            <percentage>0.185</percentage>
+        </position>
+        <position id="034030402">
+            <percentage>0.3</percentage>
+        </position>
+        <position id="477464644">
+            <percentage>0.1</percentage>
+        </position>
+        <position id="838282210">
+            <percentage>0.4</percentage>
+        </position>
+    </fund>
+</funds>
